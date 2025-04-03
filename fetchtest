@@ -2,3 +2,6 @@ fetch test
 fetch second test 
 fetch third test
 local senario
+fetch third test 
+use scenario 
+
